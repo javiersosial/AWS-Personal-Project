@@ -3,5 +3,5 @@
 This repository contains hands-on projects related to AWS services. 
 Each project is documented with step-by-step instructions and best practices.
 
-##Project list :
+## Project list :
 IAM Admin user setup
